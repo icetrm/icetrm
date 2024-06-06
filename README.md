@@ -9,6 +9,10 @@
 ## My Project
 
 ## Hard Skills
+| Skills | Techs |
+|--------|---------------|
+|Front-end|Nuxt2, Flutter, Angular|
+|back-end|Spring Boot|
 
 ## Soft Skills
 
